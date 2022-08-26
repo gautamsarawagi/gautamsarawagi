@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gautamsarawagi
-- 👀 I’m interested in developmentg
-- 🌱 I’m currently learning react js and planning to learn solidity
+- 👀 I’m interested in development
+- 🌱 I’m currently learning node js and planning to learn solidity
 - 💞️ I’m looking to collaborate on any hackathon and intresting projects
 - 📫 https://www.linkedin.com/in/gautam-sarawagi-64b1b4227/
